@@ -1,6 +1,7 @@
 # MODULE AUDIO
 
 ## OBJECTIF
+* Créer une sortie sonore sous la forme d'une voix parlée.
 * Comprendre le fonctionement du text to speech (TTS).
 
 ## Setup environnement pour ce module
